@@ -20,3 +20,15 @@
     color:hsl(0, 36%, 70%);
 
 }
+h1{
+    font-weight: 600;
+    font-size: larger;
+}
+.paragraph{
+    margin-top: 5%;
+    color:hsl(0, 36%, 70%);
+
+}
+#form{
+    margin-top: 5%;
+}
